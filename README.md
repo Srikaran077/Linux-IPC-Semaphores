@@ -1,5 +1,5 @@
-### NAME: POZHILAN V D
-### REG NO. :212223240018
+### NAME: SRIKARAN.M
+### REG NO. :212223040206
 # Linux-IPC-Semaphores
 Ex05-Linux IPC-Semaphores
 
